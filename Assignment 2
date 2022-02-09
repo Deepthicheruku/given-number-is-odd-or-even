@@ -1,0 +1,10 @@
+n=int(input("enter n:"))
+if(n%2==0):
+    print("n is even number", n)
+else:
+    print("n is odd number", n) 
+
+Output: 
+enter n:46
+n is even number 46
+> 
